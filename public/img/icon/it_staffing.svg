@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="b" x1="40" x2="40" y1="82" y2="2" data-name="New Gradient Swatch" gradientTransform="matrix(1 0 0 -1 0 82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05050f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8d8db9" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="c" x1="40" x2="40" y1="82" y2="2" gradientTransform="matrix(1 0 0 -1 0 82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8d8db9"/>
+      <stop offset="1" stop-color="#27273f"/>
+    </linearGradient>
+    <linearGradient id="a" x1="21.6" x2="58.4" y1="46.7" y2="46.7" data-name="New Gradient Swatch copy" gradientTransform="matrix(1 0 0 -1 0 82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5d79a0"/>
+      <stop offset="1" stop-color="#c3cddc"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="d" x1="53.9" x2="55.1" y1="56.4" y2="56.4" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="e" x1="27.8" x2="32.3" y1="43.6" y2="43.6" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="f" x1="20.4" x2="36.3" y1="28.3" y2="28.3" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="g" x1="51.7" x2="54.8" y1="43.7" y2="43.7" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="h" x1="46.9" x2="59.6" y1="52.3" y2="52.3" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="i" x1="37.4" x2="43.2" y1="44.7" y2="44.7" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="j" x1="43.4" x2="45.5" y1="42" y2="42" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="k" x1="49.4" x2="51.5" y1="42.1" y2="42.1" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="l" x1="41.9" x2="47.3" y1="44.5" y2="44.5" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="m" x1="47.2" x2="53" y1="45.1" y2="45.1" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="n" x1="29.5" x2="50.5" y1="57.8" y2="57.8" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="o" x1="31.1" x2="48.9" y1="51.3" y2="51.3" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="p" x1="38" x2="42" y1="51.8" y2="51.8" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="q" x1="25" x2="31.7" y1="26.4" y2="26.4" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="r" x1="22.7" x2="34" y1="31.4" y2="31.4" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="s" x1="42.1" x2="53.3" y1="36" y2="36" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="t" x1="40.4" x2="55" y1="29.9" y2="29.9" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="u" x1="52.1" x2="55.4" y1="35" y2="35" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="v" x1="40.4" x2="42.4" y1="31.3" y2="31.3" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="w" x1="40" x2="43.3" y1="34.8" y2="34.8" data-name="New Gradient Swatch copy"/>
+  </defs>
+  <path d="M40 .5C61.8.5 79.5 18.2 79.5 40S61.8 79.5 40 79.5.5 61.8.5 40 18.2.5 40 .5Z" style="fill:url(#b)"/>
+  <path d="M40 .5C61.8.5 79.5 18.2 79.5 40S61.8 79.5 40 79.5.5 61.8.5 40 18.2.5 40 .5Z" style="stroke:url(#c);fill:none"/>
+  <g data-name="_x3C_Group_x3E_">
+    <path d="M54.5 59v-5.1" style="stroke:url(#d);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M28.4 35.6v14.3c0 .9.7 1.5 1.5 1.5h1.8" style="stroke:url(#e);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M35.1 25.5c.2.5.3 1 .4 1.5.6 3.3-1.2 6.7-4.4 8.1-3.7 1.5-8-.2-9.6-4-1.5-3.7.2-8 4-9.6 3.7-1.5 8 .2 9.6 4Z" style="stroke:url(#f);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M54.2 44.1c-.7-.3-1.3-.6-1.9-.7" style="stroke:url(#g);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M47.5 59H58c.5 0 1-.4 1-1v-6.8c0-2.6-1.1-4.4-2.5-5.7" style="stroke:url(#h);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M42.6 43.3c-1.3.4-3.2 1.2-4.6 2.7" style="stroke:url(#i);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M44.9 41v.7c0 .5-.3 1-.8 1.3H44" style="stroke:url(#j);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M50.9 43h-.1c-.5-.3-.8-.8-.8-1.3v-.6" style="stroke:url(#k);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M46.7 45.8 44 43.1c-.1-.1-.3-.1-.4-.1-.1 0-.3 0-.5.1-.5.1-.7.7-.5 1.1.3.6.8 1.3 1.1 1.8" style="stroke:url(#l);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="m48.3 46.5 1.3.7c.5.1.9 0 1.2-.5 0 0 1-1.6 1.6-2.6.3-.4 0-1-.5-1.1-.2 0-.4 0-.5-.1-.1 0-.3 0-.4.1l-2.7 2.7c-.1.1-.3.2-.4.2" style="stroke:url(#m);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M49.1 56.7H30.9c-.5 0-.8.4-.8.8 0 .8.7 1.5 1.5 1.5h16.9c.8 0 1.5-.7 1.5-1.5 0-.5-.4-.8-.8-.8Z" style="stroke:url(#n);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M48.3 56.7V47c0-.6-.5-1-1-1H32.9c-.6 0-1 .5-1 1v9.7" style="stroke:url(#o);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M41.4 51.8c0 .8-.6 1.4-1.4 1.4s-1.4-.6-1.4-1.4.6-1.4 1.4-1.4 1.4.6 1.4 1.4Z" style="stroke:url(#p);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M31.1 26.4c0 1.5-1.2 2.7-2.7 2.7s-2.7-1.2-2.7-2.7 1.2-2.7 2.7-2.7 2.7 1.2 2.7 2.7Z" style="stroke:url(#q);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M33.4 33.6v-.7c0-2.1-1.7-3.8-3.8-3.8h-2.5c-2.1 0-3.8 1.7-3.8 3.8v.7" style="stroke:url(#r);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M43.3 30.3c-.4.7-.6 1.4-.6 2.2v4.2c0 1.4.6 2.7 1.7 3.6.8.7 1.9 1.3 3.3 1.4 0 0 0 0 0 0 1.4 0 2.5-.7 3.3-1.4 1-.9 1.6-2.2 1.7-3.6v-4.3" style="stroke:url(#s);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M54.4 30.5c0-2.1-1.7-3.8-3.8-3.8h-9.2c-.2 0-.4.2-.4.4 0 1.9 1.6 3.5 3.5 3.5h6.3c1.1 0 2 .9 2 2v.3h.7c.4 0 .7.1.9.4v-2.7Z" style="stroke:url(#t);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M52.7 36.8h1c.6 0 1.1-.5 1.1-1.1v-1.5c0-.4-.2-.7-.4-1" style="stroke:url(#u);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M41.8 29.3c-.5.3-.8.9-.8 1.5v2.3" style="stroke:url(#v);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+    <path d="M42.7 32.8h-.8c-.7 0-1.4.6-1.4 1.4v1.5c0 .6.5 1.1 1.1 1.1h1" style="stroke:url(#w);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  </g>
+</svg>

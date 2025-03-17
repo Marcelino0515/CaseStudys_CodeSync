@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="b" x1="40" x2="40" y1="82" y2="2" data-name="New Gradient Swatch" gradientTransform="matrix(1 0 0 -1 0 82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05050f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8d8db9" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="c" x1="40" x2="40" y1="82" y2="2" gradientTransform="matrix(1 0 0 -1 0 82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8d8db9"/>
+      <stop offset="1" stop-color="#27273f"/>
+    </linearGradient>
+    <linearGradient id="a" x1="21.6" x2="58.4" y1="46.7" y2="46.7" data-name="New Gradient Swatch copy" gradientTransform="matrix(1 0 0 -1 0 82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5d79a0"/>
+      <stop offset="1" stop-color="#c3cddc"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="d" x1="25" x2="47" y1="40" y2="40" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="e" x1="25" x2="46.9" y1="52.8" y2="52.8" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="f" x1="35.4" x2="36.6" y1="55.5" y2="55.5" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="g" x1="39.2" x2="41" y1="24.5" y2="24.5" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="h" x1="31" x2="37.2" y1="24.5" y2="24.5" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="i" x1="31" x2="32.2" y1="38.5" y2="38.5" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#b" id="j" x1="31.6" x2="54.4" y1="35.4" y2="35.4" data-name="New Gradient Swatch"/>
+    <linearGradient xlink:href="#b" id="k" x1="31.8" x2="35.6" y1="43.5" y2="43.5" data-name="New Gradient Swatch"/>
+    <linearGradient xlink:href="#b" id="l" x1="38.7" x2="42.5" y1="43.5" y2="43.5" data-name="New Gradient Swatch"/>
+    <linearGradient xlink:href="#a" id="m" x1="45.7" x2="51.5" y1="42.1" y2="42.1" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="n" x1="45.7" x2="51.5" y1="44.8" y2="44.8" data-name="New Gradient Swatch copy"/>
+    <linearGradient xlink:href="#a" id="o" x1="31" x2="55" y1="38.6" y2="38.6" data-name="New Gradient Swatch copy"/>
+  </defs>
+  <path d="M40 .5C61.8.5 79.5 18.2 79.5 40S61.8 79.5 40 79.5.5 61.8.5 40 18.2.5 40 .5Z" style="fill:url(#b)"/>
+  <path d="M40 .5C61.8.5 79.5 18.2 79.5 40S61.8 79.5 40 79.5.5 61.8.5 40 18.2.5 40 .5Z" style="stroke:url(#c);fill:none"/>
+  <path d="M46.4 48.8v5.4c0 2.2-1.8 4.1-4.1 4.1H29.6c-2.2 0-4.1-1.8-4.1-4.1V25.8c0-2.2 1.8-4.1 4.1-4.1h12.7c2.2 0 4.1 1.8 4.1 4.1v2.6" style="stroke:url(#d);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  <path d="M25.6 52.8h20.7" style="stroke:url(#e);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  <path d="M36 55.5h0" style="stroke:url(#f);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  <path d="M39.8 24.5h.6" style="stroke:url(#g);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  <path d="M31.6 24.5h5.1" style="stroke:url(#h);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  <path d="M31.6 27.4v22.2" style="stroke:url(#i);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  <path d="M54.4 32.4H31.5v6h22.9v-6Z" style="fill:url(#j)"/>
+  <path d="M35.6 45.4h-3.9v-3.9h3.9v3.9Z" style="fill:url(#k)"/>
+  <path d="M42.5 45.4h-3.9v-3.9h3.9v3.9Z" style="fill:url(#l)"/>
+  <path d="M46.3 42.1h4.5" style="stroke:url(#m);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  <path d="M46.3 44.8h4.5" style="stroke:url(#n);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+  <path d="M52.6 28.5h-21v20.2h21c1 0 1.8-.8 1.8-1.8V30.4c0-1-.8-1.8-1.8-1.8Z" style="stroke:url(#o);fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"/>
+</svg>
