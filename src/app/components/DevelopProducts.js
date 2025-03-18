@@ -21,7 +21,7 @@ export default function DevelopProducts(){
                     </h4>
                 </ul>
               </div>
-              <div className='col-md-7 pl-47'>
+              <div className='col-md-7 pl-47 text-center'>
                 <div className='row gy-2'>
                     <div
                     className="col-md-6 col-lg-6"

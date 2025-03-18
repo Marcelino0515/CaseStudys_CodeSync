@@ -42,9 +42,9 @@ export default function Examples() {
     <>
       <div className='percentage-bar'></div>
       <PageHero
-        title='Noteworthy'
-        subtitle='Examples'
-        content="Enhance your team's efficiency with a swift AI assistant creation process. In mere minutes, craft an AI companion seamlessly collaborating with your entire team."
+        title='CODESYNC'
+        subtitle='Summary'
+        content="!!!you should input something!!!"
       />
       <Solution />
       <Brand />
